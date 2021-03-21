@@ -1,11 +1,11 @@
 <h1>Hello World!</h1>
-<p>I'm Alena and I'm beginning my web development journey.</p>
+<p>I'm Alena and I'm on my journey to become a full-stack web developer.</p>
 <hr aize=3x>
 <h2>My Tech Stack</h2>
-<img align="left" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff" alt="HTML5" height = "30"/>  
-<img align="left" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3" alt="CSS3" height = "30"/>  
-<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000" alt="JavaScript" height = "30"/>  
-<img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code" alt="VSCode" height = "30">
+<img align="left" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff" alt="HTML5" height = "25"/>  
+<img align="left" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3" alt="CSS3" height = "25"/>  
+<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000" alt="JavaScript" height = "25"/>  
+<img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code" alt="VSCode" height = "25">
 <hr size=3x>
 <h2>Where to find me:</h2>
 <a href="https://www.linkedin.com/in/alena-bauer-856712206/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
