@@ -8,7 +8,8 @@
 <img align="left" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000" alt="JavaScript" height = "25"/>
 <img align="left" src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery" height = "25"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height = "25"/>
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" alt="Ruby" height= "25">
+<img align="left" src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" alt="Ruby" height= "25">
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" height= "25">
 <img align="left" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="NodeJs" height= "25">
 <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" alt="ExpressJs" height="25">
 <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code" alt="VSCode" height = "25">
