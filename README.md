@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" height= "25">
 <img align="left" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="NodeJs" height= "25">
 <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" alt="ExpressJs" height="25">
+<img align="left" src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" alt="SQlite" height= "25">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height= "25">
 <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code" alt="VSCode" height = "25">
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" height = "25">
 <hr size=3x>
