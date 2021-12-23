@@ -18,7 +18,9 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" height = "25">
 <hr size=3x>
 <h2>Where to find me:</h2>
-<a href="https://www.linkedin.com/in/alena-bauer-856712206/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alena-bauer-856712206/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height = "25" /></a>
+&nbsp;&nbsp;
+<a href="https://www.codewars.com/users/alenabauer" target="_blank"><img alt="Codewars" src="https://www.codewars.com/users/alenabauer/badges/small" height = "25" /></a>
 
 
 <!--
