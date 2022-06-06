@@ -1,5 +1,5 @@
-<h1>Hello World!</h1>
-<p>I'm Alena and I'm on my journey to become a full-stack web developer.</p>
+<h1>Hi.</h1>
+<p>I'm Alena. Translator turned developer.</p>
 <hr aize=3x>
 <h2>My Tech Stack</h2>
 <img align="left" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff" alt="HTML5" height = "25"/>  
